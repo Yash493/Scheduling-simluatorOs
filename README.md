@@ -1,4 +1,5 @@
 #CPU Scheduling Simulator
+
 Introduction
 
 The CPU Scheduling Simulator is a Java program with a graphical user interface (GUI) designed to simulate different CPU scheduling algorithms. This project provides a hands-on experience and visual representation of various CPU scheduling algorithms, including Non-Preemptive Priority Scheduling, Non-Preemptive Shortest Job First (SJF), Shortest-Remaining Time First (SRTF), and a custom algorithm called AGAT Scheduling.
