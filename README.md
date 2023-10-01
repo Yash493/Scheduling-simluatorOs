@@ -15,6 +15,7 @@ Supported Scheduling Algorithms
   Ensures the solution to the starvation problem.
 2.Non-Preemptive Shortest Job First (SJF) with context switching:
   Solves the starvation problem.
+
 3.Shortest-Remaining Time First (SRTF) Scheduling with context switching:
   Solves the starvation problem.
 4.AGAT Scheduling:
@@ -22,3 +23,9 @@ Supported Scheduling Algorithms
   Each process in AGAT scheduling has a different quantum.
   Implements a non-preemptive phase for each process until reaching approximately 40% of the quantum, after which it becomes preemptive.
   Provides the ability to replace a process with the best (least) AGAT factor, if available, after the non-preemptive phase ends.
+  
+  ScreenShots
+  ![WhatsApp Image 2023-10-01 at 9 12 36 PM](https://github.com/Yash493/Scheduling-simluatorOs/assets/81979500/db5fb07d-2a35-492c-86f0-54a289c0a5ea)
+![WhatsApp Image 2023-10-01 at 9 12 56 PM](https://github.com/Yash493/Scheduling-simluatorOs/assets/81979500/c306e111-d84f-4445-9388-5120b7b13244)
+![WhatsApp Image 2023-10-01 at 9 14 15 PM](https://github.com/Yash493/Scheduling-simluatorOs/assets/81979500/4edb54cb-ecdc-4053-a8c6-da35ece66f9f)
+![WhatsApp Image 2023-10-01 at 9 14 35 PM](https://github.com/Yash493/Scheduling-simluatorOs/assets/81979500/6a880552-86e7-4920-94ac-85defbb02b61)
